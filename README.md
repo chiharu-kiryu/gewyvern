@@ -1,5 +1,3 @@
----
-
 # 🐉 gewyvern v0.01 Design Spec
 
 ### Linux eBPF Execution Runtime (CLI-first)
@@ -228,4 +226,3 @@ pairing：
 * 不做 cluster coordination
 * 不做 DSL runtime
 
----
